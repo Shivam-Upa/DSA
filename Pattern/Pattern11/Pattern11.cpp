@@ -10,7 +10,7 @@ int main()
 
     while (row <= n)
     {
-        
+        int col = 1;
 
         while (col <= n)
         {
