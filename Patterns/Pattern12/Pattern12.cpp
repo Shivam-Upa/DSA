@@ -6,7 +6,7 @@ int main(){
     cin>>n;
 
     int row = 1;
-    char count = 'A';
+//     char count = 'A';
     while (row <= n)
     {
         int col = 1;
