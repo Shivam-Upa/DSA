@@ -11,7 +11,7 @@ int main(){
     {
         int col = 1;
         
-        while (col <= n)
+        while (col < n)
         {
             cout<<count;
             count = count + 1;
