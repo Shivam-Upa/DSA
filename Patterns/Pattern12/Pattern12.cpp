@@ -16,8 +16,8 @@ int main(){
             cout<<count;
             count = count + 1;
             col =col + 1;
-        }
-        cout << endl;
-        row = row + 1;
+//         }
+//         cout << endl;
+//         row = row + 1;
     }
 }
