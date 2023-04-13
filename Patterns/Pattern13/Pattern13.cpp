@@ -20,8 +20,8 @@ int main()
             
             // cout << ch;
             col = col + 1;
-        }
-        cout << endl;
-        row = row + 1;
+//         }
+//         cout << endl;
+//         row = row + 1;
     }
 }
