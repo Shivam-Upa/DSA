@@ -19,6 +19,6 @@ int main()
             col = col + 1;
         }
         cout << endl;
-        row = row + 1;
+        row++;
     }
 }
