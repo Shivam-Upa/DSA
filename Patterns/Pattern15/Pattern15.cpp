@@ -15,7 +15,7 @@ int main()
         while (col <= row)
         {
             cout << ch;
-            ch = ch + 1;
+            ch++;
             col = col + 1;
         }
         cout << endl;
