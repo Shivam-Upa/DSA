@@ -16,12 +16,12 @@ int main()
         while (space<col)
         {
             cout<<" ";
-            ++space;
+            space++;
         }
         while (star<n)
         {
             cout<<"*";
-            ++star;
+            star++;
         }
         
         
