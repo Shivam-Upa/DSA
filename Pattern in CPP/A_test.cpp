@@ -26,7 +26,7 @@ int main()
         
         
         cout << endl;
-        --n;
+        n--;
         row = row + 1;
         col = col +1;
     }
