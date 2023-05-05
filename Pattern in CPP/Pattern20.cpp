@@ -23,7 +23,8 @@ int main()
             cout << "*";
             star -= 1;
         }
-        cout << endl;
         row++;
+        cout << endl;
+        //row++;
     }
 }
