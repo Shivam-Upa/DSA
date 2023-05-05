@@ -24,6 +24,6 @@ int main()
             star -= 1;
         }
         cout << endl;
-        row = row + 1;
+        row++;
     }
 }
