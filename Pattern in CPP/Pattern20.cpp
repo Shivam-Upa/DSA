@@ -15,7 +15,7 @@ int main()
         while (col <= row)
         {
             cout << " ";
-            col = col + 1;
+            col++;
         }
         int star = n - row + 1;
         while (star)
